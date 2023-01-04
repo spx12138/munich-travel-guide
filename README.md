@@ -28,6 +28,7 @@
 有很多古埃及的雕像，还有斯芬克斯雕像。
 
 -旧绘画陈列馆(Alte Pinakothek)
+
 -新绘画陈列馆(Neue Pinakothek)
  
 8.慕尼黑工业大学(Technische Universität München)(夹带私货)
