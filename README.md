@@ -75,31 +75,31 @@
 
 ### 休闲餐馆
 
--- 宴遇中餐馆 （Yan You - Chinesisches Restaurant）
+#### 宴遇中餐馆 （Yan You - Chinesisches Restaurant）
 
--- 天山维吾尔餐馆（Tengri Tagh Uyghur）大盘鸡太好吃了
+#### 天山维吾尔餐馆（Tengri Tagh Uyghur）大盘鸡太好吃了
 
--- 湘香轩湘菜馆（XIANG）
+#### 湘香轩湘菜馆（XIANG）
 
---红红中国面馆（Honghong Noodles Restaurant）
+#### 红红中国面馆（Honghong Noodles Restaurant）
 
 有两家分店地址分别为：Leopoldstraße 60-62, 80802 München 和 Bürgerpl. 10, 85748 Garching bei München
 
 ### 火锅
 
--- 你好 和合 （NIHAO Kitchen）
+#### 你好 和合 （NIHAO Kitchen）
 
--- 你好 成都 （NIHAO Streetfood）
+#### 你好 成都 （NIHAO Streetfood）
 
--- Fire Dragon Lounge
+#### Fire Dragon Lounge
 
--- 古蜀火锅
+#### 古蜀火锅
 
 ### 小吃
 
--- 樂多欢乐饺子（Ledu Happy Dumplings）
+#### 樂多欢乐饺子（Ledu Happy Dumplings）
 
--- Baoz! Bar
+#### Baoz! Bar
 
 ## 日料
 
