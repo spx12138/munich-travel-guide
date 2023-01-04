@@ -51,7 +51,7 @@
 
 ### 1.新天鹅堡(Neuschwanstein Schloss)
 
-路德维希二世为爱情所修建的童话般的城堡，是迪士尼城堡的原型，历十几年的修建，但是路德维希二世却并没有在有生之年目睹整个城堡的竣工。距离慕尼黑113km，需要坐火车然后转大巴才能到达城堡的山脚下，单程大概需要两小时左右的车程。
+路德维希二世为爱情所修建的童话般的城堡，也是迪士尼城堡的原型。经历十几年的修建最终建成，但是路德维希二世却并没有在有生之年目睹整个城堡的竣工，很遗憾。城堡距离慕尼黑113km，需要坐火车然后转大巴才能到达城堡的山脚下，单程大概需要两小时左右的车程。
 
 ### 2.国王湖(Königssee)
 
@@ -115,9 +115,14 @@
 
 # 学习
 
-1.慕尼黑大学
+1.慕尼黑大学（Ludwig-Maximilians-Universität München）
 
-2.慕尼黑工业大学(Technische Universität München) 常年的qs排名第50，2022年10月进行了院系整合把很多计算机相关专业收纳进了CIT院(Computation, Information and technology)，搞不太懂看起来在弄一种很新的东西(官网上写的是CIT vereint die Disziplinen Mathematik, Informatik sowie Elektrotechnik und Informationstechnik)。
+比较偏向文科的大学，食堂比tum好吃。
+
+2.慕尼黑工业大学(Technische Universität München) 
+
+比较偏向工科的大学，常年的qs排名第50，2022年10月进行了院系整合把很多计算机相关专业收纳进了CIT院(Computation, Information and technology)，搞不太懂看起来在弄一种很新的东西(官网上写的是CIT vereint die Disziplinen Mathematik, Informatik sowie Elektrotechnik und Informationstechnik)。
+
 我是2021年10月入学Info学院里的RCI专业(Robotics, cognition and intelligence)，可以说是中国学生的聚集地了，期末成群结队地在机房进行预习。
 
 # 生活娱乐
