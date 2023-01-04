@@ -20,8 +20,15 @@
 这个是专门展出交通工具的博物馆，里面展出包括马车、自行车、摩托车、小汽车、赛车、货车、火车，电车等发展史及各个时期的车型，喜欢汽车的可以关注一下这个展。
 
 6.英国花园(Englisher Garten)
+很漂亮的公园
  
 7.艺术馆
+在艺术展方面我了解不多，只知道有三个在慕工大主校区旁的艺术展：
+-埃及艺术博物馆(Munich Museum of Egyptian Art)
+有很多古埃及的雕像，还有斯芬克斯雕像。
+
+-旧绘画陈列馆(Alte Pinakothek)
+-新绘画陈列馆(Neue Pinakothek)
  
 8.慕尼黑工业大学(Technische Universität München)(夹带私货)
 
