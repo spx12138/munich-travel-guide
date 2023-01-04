@@ -39,12 +39,15 @@
 
 在艺术展方面我了解不多，只知道有三个在慕工大主校区旁的艺术展：
 
--埃及艺术博物馆(Munich Museum of Egyptian Art)
-有很多古埃及的雕像，还有斯芬克斯雕像。
+#### -埃及艺术博物馆(Munich Museum of Egyptian Art)
 
--旧绘画陈列馆(Alte Pinakothek)
+有很多古埃及的雕像，比如斯芬克斯。
 
--新绘画陈列馆(Neue Pinakothek)
+#### -旧绘画陈列馆(Alte Pinakothek)
+
+听说有世界名画
+
+#### -新绘画陈列馆(Neue Pinakothek)
  
 ### 8.慕尼黑工业大学(Technische Universität München)(夹带私货)
 
