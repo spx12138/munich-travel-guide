@@ -122,11 +122,13 @@
 2.慕尼黑工业大学(Technische Universität München) 
 
 比较偏向工科的大学，常年的qs排名第50，2022年10月进行了院系整合把很多计算机相关专业收纳进了CIT院(Computation, Information and technology)，搞不太懂看起来在弄一种很新的东西(官网上写的是CIT vereint die Disziplinen Mathematik, Informatik sowie Elektrotechnik und Informationstechnik)。
+
 我是2021年10月入学Info学院里的RCI专业(Robotics, cognition and intelligence)，可以说是中国学生的聚集地了，期末成群结队地在机房进行预习。
 
 # 生活娱乐
 
 1.啤酒节(Oktoberfest)
+拜仁州的传统节日，一般在每年的9月底10月初在慕尼黑市中心举行，吃肘子，喝啤酒，游乐场，很快乐。
 
 2.游乐场(Volksfest)
 
