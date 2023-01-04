@@ -74,41 +74,45 @@
 
 1.中餐
 
-#休闲餐馆
+# 休闲餐馆
 
---宴遇中餐馆 （Yan You - Chinesisches Restaurant）
+-- 宴遇中餐馆 （Yan You - Chinesisches Restaurant）
 
---天山维吾尔餐馆（Tengri Tagh Uyghur）大盘鸡太好吃了
+-- 天山维吾尔餐馆（Tengri Tagh Uyghur）大盘鸡太好吃了
 
---湘香轩湘菜馆（XIANG）
+-- 湘香轩湘菜馆（XIANG）
 
-#火锅
+--红红中国面馆（Honghong Noodles Restaurant）
 
---你好 和合 （NIHAO Kitchen）
+有两家分店地址分别为：Leopoldstraße 60-62, 80802 München 和 Bürgerpl. 10, 85748 Garching bei München
 
---你好 成都 （NIHAO Streetfood）
+# 火锅
 
---Fire Dragon Lounge
+-- 你好 和合 （NIHAO Kitchen）
 
---古蜀火锅
+-- 你好 成都 （NIHAO Streetfood）
 
-#小吃
+-- Fire Dragon Lounge
 
---樂多欢乐饺子（Ledu Happy Dumplings）
+-- 古蜀火锅
 
---Baoz! Bar
+# 小吃
+
+-- 樂多欢乐饺子（Ledu Happy Dumplings）
+
+-- Baoz! Bar
 
 2.日料
 
 3.韩餐
 
---89Anju（炸鸡，石锅饭特别好吃）
+-- 89Anju（炸鸡，石锅饭特别好吃）
 
 4.德餐
 
 5.其他菜系
 
---Anzi Kitchen（亚洲菜，越南米粉特别好吃）
+-- Anzi Kitchen（亚洲菜，越南米粉特别好吃）
 
 ------------------------------------------------学习------------------------------------------------
 
