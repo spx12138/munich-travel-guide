@@ -74,23 +74,41 @@
 
 1.中餐
 
--火锅
+#休闲餐馆
+
+--宴遇中餐馆 （Yan You - Chinesisches Restaurant）
+
+--天山维吾尔餐馆（Tengri Tagh Uyghur）大盘鸡太好吃了
+
+--湘香轩湘菜馆（XIANG）
+
+#火锅
 
 --你好 和合 （NIHAO Kitchen）
 
 --你好 成都 （NIHAO Streetfood）
 
-煎饼
+--Fire Dragon Lounge
+
+--古蜀火锅
+
+#小吃
 
 --樂多欢乐饺子（Ledu Happy Dumplings）
+
+--Baoz! Bar
 
 2.日料
 
 3.韩餐
 
+--89Anju（炸鸡，石锅饭特别好吃）
+
 4.德餐
 
 5.其他菜系
+
+--Anzi Kitchen（亚洲菜，越南米粉特别好吃）
 
 ------------------------------------------------学习------------------------------------------------
 
