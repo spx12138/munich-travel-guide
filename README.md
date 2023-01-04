@@ -45,29 +45,50 @@
 我熟悉的慕工大的校区主要有两个，在市中心的主校区和在郊区的Garching校区。工业大学的建筑就都很有工业风，裸露的钢架，朴素的外表，但内部的设计却处处能感受到对细节的关注，值得一提的是Garching校区MI楼的大滑梯很好玩，是一个横跨三层楼的大滑梯，学期末复习疲惫的时候去滑滑还挺解压的。
 
 城外景点：
+
 1.新天鹅堡(Neuschwanstein Schloss)
+
 2.国王湖(Königssee)
+
 3.楚格峰(Zugspitze)
+
 4.Ingolstadt购物村(Ingolstadt village)
+
 5.Erding温泉、水上乐园
+
 6.泰根湖(Tegernsee)
+
 交通：
+
 作为德国南部的交通中心，慕尼黑拥有32条铁轨线路，8条高速地铁，6条地铁和不计其数的Tram和公交。
+
 美食：
+
 1.中餐
+
 2.日料
+
 3.韩餐
+
 4.德餐
+
 5.其他菜系
- 
+
 学习：
+
 1.慕尼黑大学
+
 2.慕尼黑工业大学(Technische Universität München) 常年的qs排名第50，2022年10月进行了院系整合把很多计算机相关专业收纳进了CIT院(Computation, Information and technology)，搞不太懂看起来在弄一种很新的东西(官网上写的是CIT vereint die Disziplinen Mathematik, Informatik sowie Elektrotechnik und Informationstechnik)。
 我是2021年10月入学Info学院里的RCI专业(Robotics, cognition and intelligence)，可以说是中国学生的聚集地了，期末成群结队地在机房进行预习。
 
 生活娱乐:
+
 1.啤酒节(Oktoberfest)
+
 2.游乐场(Volksfest)
+
 3.拜仁慕尼黑主场(安联球场)
+
 4.滑雪
+
 5.爬山
