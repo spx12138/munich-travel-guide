@@ -72,9 +72,9 @@
 
 # 美食
 
-1.中餐
+## 中餐
 
-## 休闲餐馆
+### 休闲餐馆
 
 -- 宴遇中餐馆 （Yan You - Chinesisches Restaurant）
 
@@ -86,7 +86,7 @@
 
 有两家分店地址分别为：Leopoldstraße 60-62, 80802 München 和 Bürgerpl. 10, 85748 Garching bei München
 
-## 火锅
+### 火锅
 
 -- 你好 和合 （NIHAO Kitchen）
 
@@ -96,32 +96,32 @@
 
 -- 古蜀火锅
 
-# 小吃
+### 小吃
 
 -- 樂多欢乐饺子（Ledu Happy Dumplings）
 
 -- Baoz! Bar
 
-2.日料
+## 日料
 
-3.韩餐
+## 韩餐
 
--- 89Anju（炸鸡，石锅饭特别好吃）
+### 89Anju（炸鸡，石锅饭特别好吃）
 
-4.德餐
+## 德餐
 
-5.其他菜系
+## 其他菜系
 
--- Anzi Kitchen（亚洲菜，越南米粉特别好吃）
+### Anzi Kitchen（亚洲菜，越南米粉特别好吃）
 
-------------------------------------------------学习------------------------------------------------
+# 学习
 
 1.慕尼黑大学
 
 2.慕尼黑工业大学(Technische Universität München) 常年的qs排名第50，2022年10月进行了院系整合把很多计算机相关专业收纳进了CIT院(Computation, Information and technology)，搞不太懂看起来在弄一种很新的东西(官网上写的是CIT vereint die Disziplinen Mathematik, Informatik sowie Elektrotechnik und Informationstechnik)。
 我是2021年10月入学Info学院里的RCI专业(Robotics, cognition and intelligence)，可以说是中国学生的聚集地了，期末成群结队地在机房进行预习。
 
-------------------------------------------------生活娱乐------------------------------------------------
+# 生活娱乐
 
 1.啤酒节(Oktoberfest)
 
