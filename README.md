@@ -109,17 +109,19 @@
 
 ## 德餐
 
+### 皇家宫廷啤酒屋（Hofbräuhaus München）
+
 ## 其他菜系
 
 ### Anzi Kitchen（亚洲菜，越南米粉特别好吃）
 
 # 学习
 
-1.慕尼黑大学（Ludwig-Maximilians-Universität München）
+## 1.慕尼黑大学（Ludwig-Maximilians-Universität München）
 
 比较偏向文科的大学，食堂比tum好吃。
 
-2.慕尼黑工业大学(Technische Universität München) 
+## 2.慕尼黑工业大学(Technische Universität München) 
 
 比较偏向工科的大学，常年的qs排名第50，2022年10月进行了院系整合把很多计算机相关专业收纳进了CIT院(Computation, Information and technology)，搞不太懂看起来在弄一种很新的东西(官网上写的是CIT vereint die Disziplinen Mathematik, Informatik sowie Elektrotechnik und Informationstechnik)。
 
@@ -127,13 +129,13 @@
 
 # 生活娱乐
 
-1.啤酒节(Oktoberfest)
+## 1.啤酒节(Oktoberfest)
 拜仁州的传统节日，一般在每年的9月底10月初在慕尼黑市中心举行，吃肘子，喝啤酒，游乐场，很快乐。
 
-2.游乐场(Volksfest)
+## 2.游乐场(Volksfest)
 
-3.拜仁慕尼黑主场(安联球场)
+## 3.拜仁慕尼黑主场(安联球场)
 
-4.滑雪
+## 4.滑雪
 
-5.爬山
+## 5.爬山
