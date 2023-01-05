@@ -86,6 +86,7 @@
 #### 天山维吾尔餐馆（Tengri Tagh Uyghur）大盘鸡太好吃了
 
 <img src="https://github.com/spx12138/munich-travel-guide/blob/main/github/IMG_3334.jpg" width="800px">
+<img src="https://github.com/spx12138/munich-travel-guide/blob/main/github/IMG_3335.jpg" width="800px">
 
 
 
