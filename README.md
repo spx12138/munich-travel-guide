@@ -85,8 +85,8 @@
 
 #### 天山维吾尔餐馆（Tengri Tagh Uyghur）大盘鸡太好吃了
 
-![IMG_3334](https://user-images.githubusercontent.com/49912561/210752989-a69c1b86-7b47-4089-8768-58a2e2a11151.jpg){width: 40%;}
-![IMG_3335](https://user-images.githubusercontent.com/49912561/210752997-76306c4f-ad0c-4978-87c7-53a882394899.jpg){width: 40%;}
+![IMG_3334](https://user-images.githubusercontent.com/49912561/210752989-a69c1b86-7b47-4089-8768-58a2e2a11151.jpg=100x200)
+![IMG_3335](https://user-images.githubusercontent.com/49912561/210752997-76306c4f-ad0c-4978-87c7-53a882394899.jpg=100x200)
 
 
 #### 湘香轩湘菜馆（XIANG）
